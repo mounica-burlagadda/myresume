@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"a.jpg",
+    "name":"mounica",
+    "phone":"2583697400",
+    "email":"burlagaddamounica@gmail.com.com",
+    "Address":"(D/o subbarao),eluru"
+  },
+  "education":[{
+    "course":"B.Tech(computer science and engineering)",
+    "institute":"CR Reddy enginerring college",
+    "data":["2015-2019","78%"]
+  },
+
+  {
+    "course":"Inter(MPC)",
+    "institute":"Sri chaitanya junior College",
+    "data":["2013-2015","87%"]
+  },
+  {
+    "course":"ssc",
+    "Institute" :"Ravindra Bharathi School",
+"data":["2012-2013","83%"]
+  }
+],
+"skills":[
+  {
+    "name":"language",
+    "data":["C","JAVA","PHP"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["HTML","CSS","PHP"]
+  },
+  {
+    "name":"OS",
+    "data":["windows","Linux","Unix"]
+    }
+]
+}
